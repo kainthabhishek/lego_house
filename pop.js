@@ -1,3 +1,5 @@
+//This seems to be cool. Teach me?
+
 document.addEventListener('DOMContentLoaded', function() {
 $('button').on('click',function(){
     $.get('https://www.codechef.com/contests', function(data) {
